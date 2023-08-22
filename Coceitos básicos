@@ -1,9 +1,9 @@
-Bootstrap auxiliador que iniciar a aplição no caso do Nestks uma função que geralmente fica dentro do arquivo 'main.ts' aqui entram vários configurações da aplicação. Ele carrega o módulo raiz e os demais em cascata que ficam de da raiz.
+Bootstrap auxiliador que iniciar a aplicação no caso do Nestks uma função que geralmente fica dentro do arquivo 'main.ts' aqui entram vários configurações da aplicação. Ele carrega o módulo raiz e os demais em cascata que ficam de da raiz.
 
-Decorators que vêem do prórpio typescript e modicam componentes, funções, classes etc '@'.
+Decorators que vêem do prórpio typescript e modificam componentes, funções, classes etc '@'.
 
 Module agrupa recursos como controlers e services.
 
 Controler serve como porta de entrada para um requisição delegando controlando as rotas e delegando chamadas para os services etc.
 
-Services, recebem a solicitação dos controlers e imprementação regra de negócios, chamam BD etc.
+Services, recebem a solicitação dos controlers e implementação regra de negócios, chamam BD etc.
